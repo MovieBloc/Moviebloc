@@ -1,7 +1,7 @@
 # Dillinger
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-![homeimage](https://github.com/MovieBloc/Moviebloc-Web/blob/master/img/01_home.jpg?raw=true)
+![homeimage](img/01_home.jpg?raw=true)
 ![testimage](http://moviebloc.io/wp-content/uploads/2019/03/MovieBloc_logo_small4.pn
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
